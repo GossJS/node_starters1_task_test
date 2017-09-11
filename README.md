@@ -1,6 +1,11 @@
 # node_starters1_task_test
 preparing a test for a server app
 
+https://iq.intel.ru/amazing-grace/?_topic=tech-innovation
+
+https://thenextweb.com/shareables/2013/09/18/the-very-first-computer-bug/#.tnw_MfIzTXgK
+
+
 see https://kodaktor.ru/g/04092017
 
 the app is functioning
